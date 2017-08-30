@@ -1,1 +1,3 @@
 This is an example file in the repository.
+This change is being made in remote branch. 
+After writing the above line I am going to stage it and commit it.
